@@ -1,1 +1,0 @@
-slightly editing this why git not working 
