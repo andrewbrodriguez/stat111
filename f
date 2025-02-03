@@ -1,1 +1,1 @@
-first file yadada
+slightly editing this why git not working 
